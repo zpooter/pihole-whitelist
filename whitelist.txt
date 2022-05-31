@@ -42,3 +42,4 @@ eds.xboxlive.com
 xboxlive.com
 v10.vortex-win.data.microsoft.com
 settings-win.data.microsoft.com
+browser.pipe.aria.microsoft.com
